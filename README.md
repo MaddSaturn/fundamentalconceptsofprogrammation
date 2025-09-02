@@ -1,6 +1,6 @@
-# Politecnico Grancolombiano Scenario 2 problem 5
+# Politecnico Grancolombiano Scenario 1 problem 5
 
-This is a Java program that solves the problem #5 from second scenario 
+This is a Java program that solves the problem #5 from first scenario 
 
 ```
 ax² + bx + c = 0
